@@ -64,6 +64,7 @@ section {
   width: 375px;
   height: 812px;
   align-items: center;
+  padding: 1rem;
 }
 
 .content {
