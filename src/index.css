@@ -61,6 +61,7 @@ button:focus-visible {
 section {
   display: flex;
   justify-content: center;
+  width: 375px;
   height: 812px;
   align-items: center;
 }
